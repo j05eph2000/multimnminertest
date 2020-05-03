@@ -50,7 +50,7 @@ echo "/swapfile none swap sw 0 0" >> /etc/fstab
 
 fi
   #wget https://github.com/wagerr/wagerr/releases/download/v3.0.1/wagerr-3.0.1-x86_64-linux-gnu.tar.gz
-  wget https://github.com/MINERIUM-COIN/minerium/releases/download/v3.0.0/Linux16.04-64bits.zip
+  wget https://github.com/MINERIUM-COIN/minerium/releases/download/v3.0.1/Linux16.04-64bits.zip
   #wget https://github.com/wagerr/Wagerr-Blockchain-Snapshots/releases/download/Block-826819/826819.zip -O bootstrap.zip
   #export fileid=1cCOIb-Xqs_MxsIPiwEAtvQps_6R1Ww13
   #export filename=Streamies-2.0.0-x86_64-pc-linux-gnu.zip
